@@ -1,1 +1,2 @@
 "This is change from local repo"
+"This is change from direction GitHub web"
