@@ -1,3 +1,6 @@
 "I made a changing on the last part of remote repository"
 "This is change from local repo"
 "This is change from direction GitHub web"
+
+
+"This file, I added from github website"
